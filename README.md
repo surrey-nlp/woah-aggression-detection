@@ -7,4 +7,4 @@
 ### SUPERVISORS: Dr. Muskan Singh, Dr. Diptesh Kanojia, Dr. Rudra Murthy
 <br/>
 
-![aggression](https://images.immediate.co.uk/production/volatile/sites/4/2020/04/EMOJI-HEAD-COVER-LAYERS-hero-a9f824c.jpg?quality=90&resize=768,574)
+![aggression](https://www.siliconrepublic.com/wp-content/uploads/2021/08/social-media-outrage-scaled-1-718x523.jpeg)
