@@ -1,6 +1,6 @@
 # Thesis
 
-## TOPIC: Analysing Aggression on Social Media
+## TOPIC: Analyzing Aggression on Social Media
 <br/>
 
 ### STUDENT: Nazia Nafis
