@@ -4,6 +4,6 @@
 # TOPIC: Analyzing Aggression on Social Media
 <br/>
 
-### STUDENT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Nazia Nafis
-### SUPERVISORS : Dr. Naveen Saini, Dr. Diptesh Kanojia, Dr. Rudra Murthy
+#### STUDENT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Nazia Nafis
+#### SUPERVISORS : Dr. Naveen Saini, Dr. Diptesh Kanojia, Dr. Rudra Murthy
 <br/>
