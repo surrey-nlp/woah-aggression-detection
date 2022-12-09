@@ -4,7 +4,9 @@
 # TOPIC: Analyzing Aggressive, Offensive, and Hate speech in Indian political tweets
 <br/>
 
-#### STUDENT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp; Nazia Nafis
-#### SUPERVISORS :&nbsp; Dr. Naveen Saini (Internal Supervisor)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr. Diptesh Kanojia, Dr. Rudra Murthy (External Supervisors)
+STUDENT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp; Nazia Nafis
+
+SUPERVISORS :&nbsp; Dr. Naveen Saini (Internal Supervisor)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dr. Diptesh Kanojia, Dr. Rudra Murthy (External Supervisors)
 <br/>
