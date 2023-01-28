@@ -13,8 +13,8 @@ THE PROCESS (explained)
   - This removed all non-EN/HI tweets.
   - x rows and 4 columns (count, id, tweet, language).
 
-4. Masked all @usernames with @MASK.
-  - Python code is [here]().
+4. Masked all <@usernames> with <@MASK>.
+  - Python code is [here](https://github.com/nazianafis/MastersThesis/blob/main/preprocessing/maskUsernames.ipynb).
 
 5. Sampled 10k tweets for manual labeling.
   - Data is at ""
