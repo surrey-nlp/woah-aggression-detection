@@ -13,6 +13,7 @@ THE PROCESS (explained)
 
 4. Sampled 10k tweets for manual labeling.
   - Data is at ""
+  - Calculated Inter-Annotator Agreement for each task.
 
 5. Another 50k labeled with weak supervision (rules)
   - Data is at ""
