@@ -1,4 +1,8 @@
-THE PROCESS (explained)
+</br>
+
+# THE PROCESS
+
+</br>
 
 | # | Action 	| Details 	|
 |:-----:|--------	|---------	|
