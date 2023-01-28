@@ -9,26 +9,29 @@ THE PROCESS (explained)
   - 213523 rows and 3 columns (count, id, tweet).
 
 3. Used [this](https://huggingface.co/papluca/xlm-roberta-base-language-detection) language detection model.
+  - Python code is [here](https://github.com/nazianafis/MastersThesis/blob/main/preprocessing/basicLangDetection.ipynb).
   - This removed all non-EN/HI tweets.
-  - x rows and 3 columns (count, id, tweet).
-  - Masked all @usernames with @MASK.
+  - x rows and 4 columns (count, id, tweet, language).
 
-4. Sampled 10k tweets for manual labeling.
+4. Masked all @usernames with @MASK.
+  - Python code is [here]().
+
+5. Sampled 10k tweets for manual labeling.
   - Data is at ""
   - Calculated Inter-Annotator Agreement for each task.
 
-5. Another 50k labeled with weak supervision (rules)
+6. Another 50k labeled with weak supervision (rules)
   - Data is at ""
 
-6. Remaining x k labeled with existing models.
+7. Remaining x k labeled with existing models.
   - Data is at ""
 
-7. Used [this](https://huggingface.co/l3cube-pune/hing-bert-lid) EN-HI LID model for monolingual vs code-mix separation.
+8. Used [this](https://huggingface.co/l3cube-pune/hing-bert-lid) EN-HI LID model for monolingual vs code-mix separation.
   - Data is at "" and ""
 
-8. Created train, val, and test splits for each dataset.
+9. Created train, val, and test splits for each dataset.
 
-9. Did Random hyperparameter search.
+10. Did Random hyperparameter search.
 
-10. Trianed models and noted down performance
+11. Trianed models and noted down performance
   - Details of results are [here]().
