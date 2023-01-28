@@ -10,6 +10,7 @@ THE PROCESS (explained)
 3. Used [this](https://huggingface.co/papluca/xlm-roberta-base-language-detection) language detection model.
   - This removed all non-EN/HI tweets.
   - x rows and 3 columns (count, id, tweet).
+  - Masked all @usernames with @MASK.
 
 4. Sampled 10k tweets for manual labeling.
   - Data is at ""
