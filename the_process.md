@@ -14,4 +14,4 @@
 | 05   	| Code-mixed seperation | <ul> <li>Used [hing-bert-lid](https://huggingface.co/l3cube-pune/hing-bert-lid) model for monolingual vs code-mix separation.</li> <li>Python code is [here](https://github.com/nazianafis/MastersThesis/blob/main/hyperparam-tuning/AGG_hing-bert_50k.py)</li> </ul> 	|
 | 06   	| * Hyperparameter search	| <ul> <li>Find best set of hyperparameters for each model-dataset combination.</li> <li>Python code is [here](https://github.com/nazianafis/MastersThesis/blob/main/hyperparam-tuning/AGG_hing-bert_50k.py).</li> </ul>	|
 | 07   	| * Experimentation | <ul> <li>Experiment and evaluate metrics for each model-dataset combination.</li> <li>Python code is [here]().</li> </ul> |
-| 08   	| * Results	| <ul> <li>Qualitative analysis of results.</li> </ul> |
+| 08   	| * Error Analysis	| <ul> <li>Qualitative analysis of results.</li> </ul> |
